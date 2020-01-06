@@ -5,21 +5,6 @@ This program gets a map image as an input and produces all possible valid colori
 
 The input image background and borders should be white.
 
-# Dependencies
-Install numpy, matplotlib and opencv.
-```
-sudo apt update
-sudo apt upgrade
-sudo apt install python3-numpy python3-scipy python3-matplotlib
-sudo apt install python3-opencv
-sudo apt install python3-pip
-```
-
-# Run
-```
-python3 map_coloring.py map_image_file_name
-```
-
 # Samples
 ...
 python3 map_coloring.py House.jpg
